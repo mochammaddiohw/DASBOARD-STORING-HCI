@@ -1,0 +1,6 @@
+{
+  "name": "Storing Dashboard",
+  "description": "Monitoring Storing & Storing Performance, displaying occupancy area (cubic), case IDs, pick zones, manage accuracy, and inbound validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
